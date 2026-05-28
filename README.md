@@ -7,4 +7,4 @@ This repository contains my C++ practice files and problem-solving exercises as 
 - Loops & Conditions
 - Functions
 - Arrays
-- Problem Solving# cpp-practice
+- Problem Solving cpp-practice
